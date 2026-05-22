@@ -33,3 +33,15 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 hs_err_pid*
+ 
+
+ # Project specific runtime files
+clips/
+*.json
+
+# Archives
+*.zip
+*.rar
+
+# Extra Docs
+README_FIXES.md
